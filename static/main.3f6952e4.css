@@ -308,7 +308,7 @@ img {
 .img-responsive {
   display: block;
   max-width: 100%;
-  height: auto;
+  height: 293px;
 }
 .img-rounded {
   border-radius: 0;
@@ -1252,7 +1252,7 @@ pre code {
     width: 41.66667%;
   }
   .col-md-6 {
-    width: 50%;
+    width: 100%;
   }
   .col-md-7 {
     width: 58.33333%;
